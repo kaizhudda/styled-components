@@ -18,6 +18,7 @@ function App() {
       <h1>App</h1>
       <Button secondary>Test</Button>
       <Button>Test 2</Button>
+      <Button large>LArge</Button>
     </>
   );
 }
